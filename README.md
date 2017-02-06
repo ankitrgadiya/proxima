@@ -9,4 +9,5 @@ A minimal blog template based on Jekyll. <br />
 * [Micah Cowell](https://github.com/getmicah)
 
 
-### License
+# License
+GNU General Public License
