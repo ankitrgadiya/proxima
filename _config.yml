@@ -5,8 +5,7 @@ url: https://proxima.ankitrgadiya.in
 # My variables
 name: Proxima
 description: A jekyll based Blog template
-google_verification:
-
+google_verification: d-betUTe-rYNnjpdDvm56ohoagIClOGA70fnHKYU4ec
 
 # File management
 include: [".htaccess"]
