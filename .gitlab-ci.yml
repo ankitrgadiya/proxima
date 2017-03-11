@@ -1,0 +1,13 @@
+variables:
+  JEKYLL_ENV: production
+
+pages:
+  script:
+  - gem install jekyll bundle
+  - bundle install
+  - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
