@@ -1,5 +1,5 @@
 # Blog settings
-permalink: /:title
+permalink: /:title/
 url: https://proxima.ankitrgadiya.in
 
 # My variables
